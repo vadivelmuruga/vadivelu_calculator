@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855773142197",
+    "project_id": "fir-getx-app-4a030",
+    "storage_bucket": "fir-getx-app-4a030.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855773142197:android:413868f8bb3f5f931fb2fc",
+        "android_client_info": {
+          "package_name": "com.example.vadivelu_calculator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Rurmu3yK6KW-wgZz56G23y2hEKrOC0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
